@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576632672140",
+    "project_id": "qranass-projet",
+    "storage_bucket": "qranass-projet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576632672140:android:083e60debee3e4d3f410a9",
+        "android_client_info": {
+          "package_name": "com.example.qrcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576632672140-oo5vshgg00toqp3vgr1tmfg5l3bo1mba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyzOu6TypPWG0-keGU226BhgArKqd895E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576632672140-oo5vshgg00toqp3vgr1tmfg5l3bo1mba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
